@@ -22,3 +22,5 @@ Converting categorical variables into numerical formats (e.g., one-hot encoding)
 Validating data quality and consistency before model training ensures reliable and robust performance in real-world applications.
 conclusion
 In conclusion, effective data processing, transformation, and preparation are essential pillars in the development of robust AI models. By ensuring data cleanliness, transforming variables into suitable formats, and validating data quality, organizations can enhance the accuracy and reliability of their AI solutions. These steps not only improve model performance but also foster trust in AI-driven insights and decisions, ultimately driving greater value and impact in various domains.
+
+![WhatsApp Image 2024-07-01 at 18 27 01_c5734d9b](https://github.com/S-M-Basha/Task-1/assets/148529241/d104ff20-4cf8-435a-a9b4-3735ef768c86)
